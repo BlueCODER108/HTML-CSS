@@ -1,0 +1,22 @@
+.table{
+    background-color: aqua;
+    font-style: italic;
+    background: none;
+    color: blue;
+    border-color: brown;
+
+}
+
+#del{
+background-color: aqua;
+    font-style: italic;
+    background: none;
+    color: blue;
+}
+
+#vel{
+    background: yellow;
+        color: blue;
+        border-color: rgb(235, 12, 12);
+        border-width: 10px;
+}

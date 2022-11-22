@@ -1,0 +1,28 @@
+.hero{
+    
+    background: linear-gradient(45deg,red,blue);
+    box-shadow: 0px 0px 90px pink;
+    width: 80%;
+    align-content: center;
+    margin-left: 110px;
+}
+
+.zero{
+    background: linear-gradient( 45deg, rgb(239, 60, 60), rgb(12, 199, 251));
+    box-shadow: 0px 0px 90px blue;
+    width: 80%;
+        align-content: center;
+        margin-left: 110px;
+}
+
+p{
+    border : 1px solid white;
+    width: 25%;
+    display: block;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    font-family: Comic Sans MS;
+    border-radius: 10px;
+    color: white;
+}

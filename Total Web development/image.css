@@ -1,0 +1,14 @@
+img:hover{
+    border: 5px double red;
+    border-radius: 100%;
+    width: 700px;
+    height: 700px;
+
+}
+
+img{
+    width: 500px;
+        height: 500px;
+        margin-left: 300px;
+        align-items: center;
+}

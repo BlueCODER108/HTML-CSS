@@ -1,0 +1,15 @@
+h1,h2{
+    color: red;
+    background-color: rgb(14, 1, 2);
+    text-align: center;
+    padding: 20px;
+    border: 1px solid whitesmoke;
+    margin: 10px;
+    width: 90%;
+    display: block;
+    border-radius: 20px;
+    margin-left: 50px;
+    
+
+}
+
