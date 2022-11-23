@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Practice Q 2</title>
+    <style>
+      .one {
+        border: 3px solid green;
+      }
+      .two {
+        border: 3px solid blue;
+      }
+    </style>
+  </head>
+  <body>
+    <table
+      border="1"
+      bordercolor="green"
+      align="center"
+      cellspacing="2px"
+      cellpadding="1px"
+      class="one"
+    >
+      <tr>
+        <td class="three">Table 1</td>
+        <td colspan="2">
+          Table 1
+          <table
+            border="1"
+            bordercolor="blue"
+            align="center"
+            cellspacing="2px"
+            class="two"
+          >
+            <tr align="center">
+              <td>Table2</td>
+              <td>Table2</td>
+            </tr>
+            <tr align="center">
+              <td>Table2</td>
+              <td>Table2</td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+      <tr>
+        <td>Table 1</td>
+        <td colspan="2">Table 1</td>
+      </tr>
+    </table>
+  </body>
+</html>
