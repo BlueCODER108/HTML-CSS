@@ -1,0 +1,23 @@
+Text Formatting TAGS:
+********************************
+
+1) <br></br>   --------- Bold Test
+2) <i></i>     --------- italic text
+3) <u></u>     --------- underlined text
+4)  <br>       --------- new line/break line
+5)  <hr>       ---------- used to draw horizontal line
+6) <sup></sup> ---------- superscript  
+7) <sub></sub> ---------- subscript
+8) &nbsp;      ----------single space Ex: H_ELLO
+9) &emsp;      ---------- tab space   Ex: H_E_L_L_O
+10) <strong></strong>-------bold(physically challenged ppl)
+11) <em></em>  -------------italic(physically challenged ppl)
+12  <mark></mark> ----------to have marked or highlighted text
+13) <del)</del> -----------used to symbol deleted
+14) <strike></strike>------deleted,This tag is used to draw a strikethrough on a section of text.(physically challenged ppl)
+15) <ins></ins> -----------text that has been inserted into a document. Ex: <p>My favorite color is <del>blue</del> <ins>red</ins>.</p>
+16)  <tt></tt>	This tag is used to appear a text in teletype. (not supported in HTML5)
+17)  <big>	This tag is used to increase the font size by one conventional unit.
+18)  <small>	This tag is used to decrease the font size by one unit from base font size.
+
+
