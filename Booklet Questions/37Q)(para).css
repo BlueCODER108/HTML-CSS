@@ -1,0 +1,74 @@
+body {
+    background: black;
+}
+
+div {
+    display: inline-block;
+    width: 25%;
+    padding: 10px;
+    margin: 10px;
+    text-align: justify;
+    border-radius: 10px;
+}
+
+p {
+
+    display: inline-block;
+    width: 25%;
+    padding: 10px;
+    margin: 10px;
+    text-align: justify;
+    font-family: Comic Sans MS;
+    border-radius: 10px;
+
+}
+
+.hero {
+
+    background: linear-gradient(45deg, red, blue);
+    box-shadow: 0px 0px 90px pink;
+    width: 80%;
+    align-content: center;
+    margin-left: 110px;
+    border-radius: 10px;
+}
+
+
+
+.super {
+
+    background: linear-gradient(45deg, red, blue);
+    box-shadow: 0px 0px 90px pink;
+    width: 80%;
+    align-content: center;
+    margin-left: 110px;
+    border-radius: 10px;
+}
+
+.super1 {
+    background: linear-gradient(45deg, rgb(239, 60, 60), rgb(12, 199, 251));
+    box-shadow: 0px 0px 90px blue;
+    width: 80%;
+    align-content: center;
+    margin-left: 110px;
+    border-radius: 10px;
+}
+
+.super2 {
+
+    background: linear-gradient(45deg, red, blue);
+    box-shadow: 0px 0px 90px pink;
+    width: 80%;
+    align-content: center;
+    margin-left: 110px;
+    border-radius: 10px;
+}
+
+.super3 {
+    background: linear-gradient(45deg, rgb(239, 60, 60), rgb(12, 199, 251));
+    box-shadow: 0px 0px 90px blue;
+    width: 80%;
+    align-content: center;
+    margin-left: 110px;
+    border-radius: 10px;
+}

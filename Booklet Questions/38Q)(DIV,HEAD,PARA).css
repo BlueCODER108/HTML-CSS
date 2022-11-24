@@ -1,0 +1,26 @@
+div{
+    border: 1px solid red;
+    width: 20%;
+    display: inline-block;
+    padding :20px;
+    margin:50px;
+    border-radius: 20px;
+}
+
+body{
+    background: black;
+}
+div > h1 {
+    color:red;
+    text-align: center;
+    background-color: yellow;
+    border: 1px solid red;
+    border-radius: 20px;
+    padding:10px;
+}
+
+div>p{
+    text-align: justify;
+    font-family: Comic Sans MS;
+    color:pink;
+}

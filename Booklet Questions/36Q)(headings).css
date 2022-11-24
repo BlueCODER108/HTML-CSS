@@ -1,0 +1,12 @@
+
+h1,h2,h3,h4,h5,h6{
+    color: red;
+    background-color: yellow;
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+    border: 1px solid red;
+    width: 45%;
+   border-radius: 0px 60px;
+}
+

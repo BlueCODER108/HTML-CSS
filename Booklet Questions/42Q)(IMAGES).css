@@ -1,0 +1,18 @@
+#first :hover{
+    border: 5px solid red;
+    border-radius: 100%;
+}
+#second :hover {
+    border: 10px solid yellow;
+    border-radius: 80%;
+}
+#third :hover {
+    border: 15px solid blue;
+    border-radius: 60%;
+}
+img{
+    border:15px solid purple;
+    margin: 30px;
+    border-radius: 40px;
+    
+    }
