@@ -1,0 +1,14 @@
+fieldset{
+    width: 50%;
+    border-color: red;
+    border-radius: 10px;
+    margin: 50px auto;
+    background-color: orange;
+    color: white;
+}
+legend{
+    background-color: orange;
+    padding: 10px;
+    border: 2px solid red;
+    border-radius: 10px;
+}
