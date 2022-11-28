@@ -1,0 +1,15 @@
+dl{
+    border: 1px solid grey;
+    width: 40%;
+    border-radius: 10px;
+    padding: 10px;
+}
+dt{
+    background-color: salmon;
+    color: white;
+    font-weight: bold;
+    padding: 5px;
+}
+dd{
+    border-bottom: 4px;
+}
