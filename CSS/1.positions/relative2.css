@@ -1,0 +1,51 @@
+div {
+    border: 2px solid black;
+    width: 100px;
+    height: 100px;
+    color: white;
+    margin: 5px;
+    text-align: right;
+
+
+}
+
+.div1 {
+    background-color: red;
+    position: relative;
+    top: 435px;
+    left: 180px;
+
+
+}
+
+.div2 {
+    background-color: green;
+    position: relative;
+    top: 310px;
+    left: 165px;
+
+}
+
+.div3 {
+    background-color: black;
+    position: relative;
+    left: 147px;
+    top: 188px;
+}
+
+.div4 {
+    background-color: blue;
+    position: relative;
+    left: 130px;
+    top: 65px;
+
+}
+
+.div5 {
+    background-color: rgb(242, 16, 201);
+    position: relative;
+    left: 115px;
+    bottom: 60px;
+
+
+}
