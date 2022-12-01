@@ -1,0 +1,18 @@
+ol,ul {
+
+    background-color: salmon;
+    margin: 10px;
+    border: 2px solid red;
+    border-radius: 2opx;
+    display: inline-block;
+    width: 15%;
+}
+
+li {
+    padding: 10px;
+    margin: 10px;
+    background-color: red;
+    color: white;
+    border: 1px solid red;
+    border-radius: 10px;
+}
