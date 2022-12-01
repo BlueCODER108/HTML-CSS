@@ -1,0 +1,16 @@
+h1{
+    color: red;
+    position: fixed;
+    right: 0;
+    top: 200px;
+    background-color: yellow;
+    padding: 10px;
+    border: 1px solid red;
+    border-radius: 0px 50px;
+}
+.p1{
+    border: 5px solid blue;
+    padding: 10px;
+    position: sticky;
+    top: 10px;
+}
