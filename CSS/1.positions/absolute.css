@@ -1,0 +1,47 @@
+div {
+    width: 100px;
+    height: 100px;
+    border: 1px solid grey;
+    margin: 5px;
+    color: white;
+    font-weight: bold;
+   
+}
+
+#div1 {
+    background-color: red;
+    position: absolute;
+    z-index: 1000;
+    left: 80px;
+
+}
+
+#div2 {
+    background-color: green;
+    position: absolute;
+    z-index: 900;
+    left: 60px;
+}
+  
+
+#div3 {
+    background-color: blue;
+    position: absolute;
+    z-index: 800;
+    left: 40px;
+   
+}
+
+#div4 {
+    background-color: yellow;
+    position: absolute;
+    z-index: 700;
+    left: 20px;
+   
+}
+
+#div5 {
+    background-color: plum;
+    position: absolute;
+   
+} 
