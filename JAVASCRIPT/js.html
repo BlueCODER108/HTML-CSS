@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>JavaScript</title>
+  </head>
+  <body>
+    <script>
+      document.write("welcome to JavaScript");
+      document.write("<br>");
+      document.write(10 + 10); //20
+
+      document.write("<br>");
+      document.write(10 + "10"); //1010
+
+      document.write("<br>");
+      document.write(10 + +"10"); //20
+
+      document.write("<br>");
+      document.write(+"10" + +"10" + +"10"); //30
+
+      document.write("<br>");
+      document.write("10" + +"10" + +"10"); //101010 //string is powerful than no
+
+      document.write("<br>");
+      document.write(10 - "10"); //0
+
+      document.write("<br>");
+      document.write(10 * "10"); //100
+
+      document.write("<br>");
+      document.write(10 / "10"); //1
+
+      document.write("<br>");
+      document.write(10 / "0"); //Infinity
+
+      document.write("<br>");
+      document.write(10 / "A"); //NaN
+      //NaN stands for "Not an Number"
+
+      //true -- 1       (Boolean)
+      //false --0
+      document.write("<br>");
+      document.write(true + true); //2
+
+      document.write("<br>");
+      document.write(1 + true); //2
+
+      document.write("<br>");
+      document.write(true / true); //1
+
+      document.write("<br>");
+      document.write(true / false); //Infinity
+
+      document.write("<br>");
+      document.write(1 + "true"); //1true //execution happening from left to right
+
+      document.write("<br>");
+      document.write(9 > 8 > 7); //false     //execution happening from left to right  (true>7)----(1>7)
+
+      document.write("<br>");
+      document.write(1 < 2 < 3); //true
+
+      document.write("<br>");
+      document.write(10 + 5 / 10 - 5); //5.5      //BODMAS ---
+      //B-bracket
+      //O-of
+      //D-division
+      //M- multipli
+      //A- add
+      //S- sub
+      // division has high priority in the above
+      // 5/10 is 0.5
+      //10+0.5-5-----10.5-5 = 5.5
+
+      document.write("<br>");
+      document.write((10 + 5) / (10 - 5));
+
+      // = (assignment)
+      // ==(compilation)
+      //=== (string comparision)
+
+      //10 =="10"------true
+
+      //10===="10"-----data type also is compared....hence false-----N !=S
+
+      document.write("<br>");
+      document.write(10 == "10"); //true
+
+      document.write("<br>");
+      document.write(10 === "10"); //false
+
+      document.write("<br>");
+      document.write(1 == "one"); //false
+
+      document.write("<br>");
+      document.write(1 === "10"); //false
+    </script>
+  </body>
+</html>
